@@ -11,4 +11,10 @@ public class StateNote {
     //button to perform action. If the state is ON, it will turn on the TV and if state is OFF, it will turn
     //of the TV. We can implement it using if-else condition like below.
 
+    //The benefits of using State pattern to implement polymorphic behavior is cleary visible. The chances
+    //of error are less and it´s very easy to add more states for additional behavior. Thus making our code
+    //more robust, easily maintainable and flexible. Also State pattern helped in avoiding if-else or
+    //switch-case conditional logic in this scenario. State Pattern is very similar to Strategy Pattern,
+    //ckeck out Strategy Pattern in Java. Thats all for State design pattern in java.
+
 }
